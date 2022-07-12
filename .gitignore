@@ -1,0 +1,4 @@
+/debug/
+.gitignore
+*.pyc
+__pycache__
